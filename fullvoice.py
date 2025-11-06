@@ -1,10 +1,4 @@
-"""
-fullvoice_sip.py
------------------
-Python SIP bot that connects to Vicidial/Asterisk using PJSUA.
-It listens for incoming calls, runs speech recognition (Vosk),
-dialogue logic (call_logic.process_response), and replies using gTTS.
-"""
+
 
 import os
 import time
